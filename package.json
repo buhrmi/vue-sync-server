@@ -1,0 +1,22 @@
+{
+  "name": "vue-sync-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/buhrmi/vue-sync-server.git"
+  },
+  "author": "Stefan Buhrmester <buhrmi@gmail.com> (http://github.com/buhrmi)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/buhrmi/vue-sync-server/issues"
+  },
+  "homepage": "https://github.com/buhrmi/vue-sync-server#readme",
+  "dependencies": {
+    "websocket": "^1.0.23"
+  }
+}
